@@ -19,7 +19,7 @@ grid:
 
 Trusted content is a selection of high-quality, secure images, curated by
 Docker and verified publishing partners. These images are stable, up-to-date,
-and follow industry best-practices. They provide a strong foundation for
+and follow industry best practices. They provide a strong foundation for
 developing applications.
 
 {{< grid >}}
